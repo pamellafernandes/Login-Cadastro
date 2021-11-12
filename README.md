@@ -7,7 +7,7 @@
 ### Features
 
 - [x] Sign-in-form
-- [x] Sign-up-form
+- [] Sign-up-form
 
 
 ### Tecnologias
