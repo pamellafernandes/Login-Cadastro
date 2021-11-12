@@ -26,8 +26,8 @@
 </h4>
 
 
-<h3 style="color: #fff; font-size: 2.2rem";>Primeira tela</h2>
+<h3 align="center" style="font-size: 3rem";>Primeira tela</h2>
 <img src="img/img01.png">
 
-<h4 style="color: #fff; font-size: 2.2rem";>Segunda tela</h3>
+<h4 align="center" style="font-size: 3rem";>Segunda tela</h3>
 <img src="img/img02.png">
