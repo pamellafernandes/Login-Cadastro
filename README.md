@@ -17,9 +17,9 @@
 - [x] JAVASCRIPT
 
 ### Inspiração
-<p> O projeto foi inspirado do canal Web Dev! </p>
+<p> O projeto foi inspirado do canal: <a href="https://youtu.be/I5_T547tHf0">Web Dev</a></p>
 
-<a href="https://youtu.be/I5_T547tHf0">Web Dev</a>
+
 
 <h2 align="center"> 
 	 🚀 Projeto concluído com sucesso... 🚀
