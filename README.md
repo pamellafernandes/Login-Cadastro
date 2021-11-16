@@ -11,7 +11,6 @@
 
 
 ### Tecnologias
-
 - [x] HTML5
 - [x] CSS3
 - [x] JAVASCRIPT
@@ -23,7 +22,7 @@
 
 <h2 align="center"> 
 	 🚀 Projeto concluído com sucesso... 🚀
-</h4>
+</h2>
 
 
 <h3 align="center" style="font-weight: 600";>Primeira tela</h3>
