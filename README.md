@@ -10,10 +10,11 @@
 - [x] Sign-up-form
 
 
-### Tecnologias
-- [x] HTML5
-- [x] CSS3
-- [x] JAVASCRIPT
+### Skills
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+</div>
 
 ### Inspiração
 <p> O projeto foi inspirado do canal: <a href="https://youtu.be/I5_T547tHf0">Web Dev</a></p>
